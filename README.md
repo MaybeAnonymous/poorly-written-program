@@ -35,16 +35,16 @@ This joke program is inspired by an actual joke, and just now did I make a repos
 
 **Running:**
 
-   `make run` or just `make`
+   >`make run` or just `make`
 
 **Building:**
 
-   `make build`
+   >`make build`
 
 **Running with debug:**
 
-   `make debug`
+   >`make debug`
 
 **Cleaning:**
 
-   `make clean`
+   >`make clean`
