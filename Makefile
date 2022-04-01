@@ -8,3 +8,6 @@ run:
 
 debug:
 	cargo r
+
+clean:
+	cargo clean

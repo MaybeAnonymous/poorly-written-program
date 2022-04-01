@@ -26,16 +26,25 @@ This joke program is inspired by an actual joke, and just now did I make a repos
 **Unknown support, untested:**
 
    >Windows
+   >
    >macOS
+   >
    >\*bsd
 
 ## How to run/build
 
 **Running:**
+
    `make run` or just `make`
 
 **Building:**
+
    `make build`
 
 **Running with debug:**
+
    `make debug`
+
+**Cleaning:**
+
+   `make clean`
