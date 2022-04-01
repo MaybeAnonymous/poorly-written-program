@@ -1,7 +1,8 @@
 [package]
-name = "egg_milk"
+name = "poorly_written_program"
 version = "0.1.0"
 edition = "2021"
+authors = [ "MaybeAnonymous" ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
